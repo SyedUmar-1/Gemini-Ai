@@ -79,7 +79,7 @@ function Main() {
               onChange={(e) => setInput(e.target.value)}
               value={input}
               type="text"
-              placeholder="Enter a prompt here"
+              placeholder="Ask Gemini"
             />
             <div>
               <img src={assets.gallery_icon} alt="" />
