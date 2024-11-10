@@ -149,6 +149,9 @@
     align-items: center;
     gap: 20px;
 }
+.result-data{
+    gap: 20px
+}
 
 .result-data{
     display: flex;
